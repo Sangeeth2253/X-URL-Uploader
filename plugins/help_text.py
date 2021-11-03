@@ -50,11 +50,11 @@ async def start(bot, update):
                 [
                     [
                         InlineKeyboardButton(
-                            "Source", url="https://github.com/Thanusara"
+                            "SOURCE", url="https://github.com/Sangeeth2253/X-URL-Uploader"
                         ),
-                        InlineKeyboardButton("Project Owner", url="https://github.com/Thanusara"),
+                        InlineKeyboardButton("SPECIAL THANKS", url="https://t.me/Thanusara"),
                     ],
-                    [InlineKeyboardButton("Author", url="https://t.me/Thanusara")],
+                    [InlineKeyboardButton("OWNER", url="https://t.me/Yasith_Sathsara")],
                 ]
             ),
             reply_to_message_id=update.message_id
